@@ -1,8 +1,8 @@
-# Hi there, I'm Rajendhar Banoth! 
+# Hi there, I'm Banoth Rajendhar! 
 
 ##  About Me
 
-I am **Rajendhar Banoth**, a passionate **Data Analytics enthusiast** and **Computer Science & Engineering undergraduate** at Malla Reddy College of Engineering, Hyderabad.
+I am **Banoth Rajendhar**, a passionate **Data Analytics enthusiast** and **Computer Science & Engineering undergraduate** at Malla Reddy College of Engineering, Hyderabad.
 
 I enjoy transforming raw data into meaningful insights through **Data Analysis, Data Visualization, and Business Intelligence**. My experience with **Python, SQL, Power BI, and Excel** has enabled me to work on real-world datasets, uncover trends, and create interactive dashboards that support data-driven decision-making.
 
