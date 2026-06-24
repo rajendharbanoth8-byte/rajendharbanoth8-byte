@@ -164,7 +164,7 @@ Email: [rajendharbanoth8@gmail.com](mailto:rajendharbanoth8@gmail.com)
 
  *"Turning data into insights and insights into impact."*
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me. <br>
 
 #### Rajendhar Banoth<br>
-###### Aspiring Data Analyst | Python | SQL | Power BI
+#### Aspiring Data Analyst | Python | SQL | Power BI
