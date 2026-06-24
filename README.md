@@ -1,16 +1,210 @@
-## Hi there 👋
+# Hi there, I'm Rajendhar Banoth! 👋
 
-<!--
-**rajendharbanoth8-byte/rajendharbanoth8-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
 
-Here are some ideas to get you started:
+I am **Rajendhar Banoth**, a passionate **Data Analytics enthusiast** and **Computer Science & Engineering undergraduate** at Malla Reddy College of Engineering, Hyderabad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming raw data into meaningful insights through **Data Analysis, Data Visualization, and Business Intelligence**. My experience with **Python, SQL, Power BI, and Excel** has enabled me to work on real-world datasets, uncover trends, and create interactive dashboards that support data-driven decision-making.
+
+I am continuously exploring new techniques in analytics and visualization while strengthening my problem-solving and analytical thinking skills. My goal is to build impactful solutions that help organizations make smarter business decisions through data.
+
+Let's connect and explore the world of data together! 📊✨
+
+---
+
+##  What I'm Working On
+
+*  Enhancing my Data Analytics and Business Intelligence skills
+*  Building end-to-end data analysis projects using Python
+*  Creating interactive dashboards with Power BI
+*  Strengthening SQL skills for advanced data querying
+*  Practicing Exploratory Data Analysis (EDA) on real-world datasets
+*  Learning techniques to derive actionable business insights from data
+
+---
+
+##  Areas of Interest
+
+*  Data Analytics
+*  Data Visualization
+*  Data Cleaning & Preprocessing
+*  Exploratory Data Analysis (EDA)
+*  Business Intelligence
+*  SQL-Based Data Analysis
+*  Dashboard Development
+*  Business Insights & Reporting
+
+---
+
+##  Skills & Technologies
+
+###  Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Data Analytics & Visualization
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
+###  Python Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### Tools & Platforms
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
+
+###  Core Competencies
+
+* Data Analytics
+* Data Cleaning
+* Data Visualization
+* Exploratory Data Analysis (EDA)
+* Business Insights
+* Problem Solving
+* Debugging
+* Collaboration
+* Communication
+
+---
+
+##  Featured Projects
+
+###  Sales Performance Analysis
+
+**Tools Used:** Python, SQL, Power BI
+
+#### Problem Statement
+
+Analyze sales data to identify revenue trends and top-performing products.
+
+#### Key Contributions
+
+* Extracted and analyzed structured sales data using SQL.
+* Performed data cleaning and exploratory analysis using Python.
+* Identified revenue patterns and product performance metrics.
+* Developed an interactive Power BI dashboard.
+
+#### Outcomes
+
+* Improved understanding of sales trends.
+* Enabled visual tracking of business performance indicators.
+
+---
+
+###  Customer Analysis
+
+**Tools Used:** Python, SQL, Power BI
+
+#### Problem Statement
+
+Understand customer purchasing behavior and identify meaningful customer segments.
+
+#### Key Contributions
+
+* Processed retail datasets using SQL and Python.
+* Conducted customer segmentation analysis.
+* Explored purchasing patterns and customer behavior.
+* Built Power BI dashboards to visualize insights.
+
+#### Outcomes
+
+* Generated actionable customer insights.
+* Improved understanding of customer preferences and purchasing trends.
+
+---
+
+###  IMDb Movie Data Analysis
+
+**Tools Used:** Python
+
+#### Problem Statement
+
+Analyze movie data to uncover trends in ratings, genres, revenue, and popularity.
+
+#### Key Contributions
+
+* Performed exploratory data analysis on IMDb datasets.
+* Investigated genre popularity and rating distributions.
+* Analyzed revenue and audience trends.
+* Created visualizations to communicate findings.
+
+#### Outcomes
+
+* Identified key factors influencing movie performance.
+* Presented insights through effective visual storytelling.
+
+---
+
+##  Education
+
+###  Bachelor of Technology (B.Tech)
+
+**Computer Science & Engineering**
+Malla Reddy College of Engineering, Hyderabad
+
+* CGPA: **8.51 / 10**
+* Expected Graduation: **2027**
+
+###  Intermediate
+
+Telangana Model School & Jr. College, Medak District
+
+* Score: **96%**
+
+###  SSC
+
+Telangana Model School, Siddipet District
+
+* CGPA: **10.0**
+
+---
+
+##  Certifications
+
+1. Data Analytics Essentials – Cisco Networking Academy<br>
+
+2. Quantum Data Analytics Job Simulation – Forage<br>
+
+ 3. Deloitte Data Analytics Job Simulation – Forage<br>
+
+---
+
+##  GitHub Goals
+
+* Build a strong portfolio of Data Analytics projects
+* Share Python-based data analysis notebooks
+* Publish interactive Power BI dashboards
+* Contribute to open-source data projects
+* Continuously improve SQL and analytics skills
+* Document learning journeys and project insights
+
+---
+
+##  Languages
+
+* Telugu
+* English
+* Hindi
+
+---
+
+##  Connect With Me
+
+📧 Email: [rajendharbanoth8@gmail.com](mailto:rajendharbanoth8@gmail.com)
+
+💼 LinkedIn: https://linkedin.com/in/rajendhar-banoth
+
+💻 GitHub: https://github.com/rajendharbanoth8-byte
+
+---
+
+⭐ *"Turning data into insights and insights into impact."*
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀
