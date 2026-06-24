@@ -1,4 +1,4 @@
-# Hi there, I'm Rajendhar Banoth! 👋
+# Hi there, I'm Rajendhar Banoth! 
 
 ##  About Me
 
@@ -8,20 +8,7 @@ I enjoy transforming raw data into meaningful insights through **Data Analysis, 
 
 I am continuously exploring new techniques in analytics and visualization while strengthening my problem-solving and analytical thinking skills. My goal is to build impactful solutions that help organizations make smarter business decisions through data.
 
-Let's connect and explore the world of data together! 📊✨
-
----
-
-##  What I'm Working On
-
-*  Enhancing my Data Analytics and Business Intelligence skills
-*  Building end-to-end data analysis projects using Python
-*  Creating interactive dashboards with Power BI
-*  Strengthening SQL skills for advanced data querying
-*  Practicing Exploratory Data Analysis (EDA) on real-world datasets
-*  Learning techniques to derive actionable business insights from data
-
----
+Let's connect and explore the world of data together! 
 
 ##  Areas of Interest
 
@@ -66,9 +53,6 @@ Let's connect and explore the world of data together! 📊✨
 * Data Cleaning
 * Data Visualization
 * Exploratory Data Analysis (EDA)
-* Business Insights
-* Problem Solving
-* Debugging
 * Collaboration
 * Communication
 
@@ -97,6 +81,8 @@ Analyze sales data to identify revenue trends and top-performing products.
 * Enabled visual tracking of business performance indicators.
 
 ---
+### Clone Repository:<br>
+git clone <https://github.com/rajendharbanoth8-byte/Sales-Analysis.git><br>
 
 ###  Customer Analysis
 
@@ -118,29 +104,9 @@ Understand customer purchasing behavior and identify meaningful customer segment
 * Generated actionable customer insights.
 * Improved understanding of customer preferences and purchasing trends.
 
----
+  ####  Clone Repository<br>
+git clone <https://github.com/rajendharbanoth8-byte/Customer_analysis.git><br>
 
-###  IMDb Movie Data Analysis
-
-**Tools Used:** Python
-
-#### Problem Statement
-
-Analyze movie data to uncover trends in ratings, genres, revenue, and popularity.
-
-#### Key Contributions
-
-* Performed exploratory data analysis on IMDb datasets.
-* Investigated genre popularity and rating distributions.
-* Analyzed revenue and audience trends.
-* Created visualizations to communicate findings.
-
-#### Outcomes
-
-* Identified key factors influencing movie performance.
-* Presented insights through effective visual storytelling.
-
----
 
 ##  Education
 
@@ -188,14 +154,17 @@ Telangana Model School, Siddipet District
 
 ##  Connect With Me
 
-📧 Email: [rajendharbanoth8@gmail.com](mailto:rajendharbanoth8@gmail.com)
+Email: [rajendharbanoth8@gmail.com](mailto:rajendharbanoth8@gmail.com)
 
-💼 LinkedIn:www.linkedin.com/in/rajendharbanoth
+ LinkedIn:www.linkedin.com/in/rajendharbanoth
 
-💻 GitHub: https://github.com/rajendharbanoth8-byte
+ GitHub: https://github.com/rajendharbanoth8-byte
 
 ---
 
-⭐ *"Turning data into insights and insights into impact."*
+ *"Turning data into insights and insights into impact."*
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 
+
+#### Rajendhar Banoth<br>
+###### Aspiring Data Analyst | Python | SQL | Power BI
