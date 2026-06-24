@@ -166,5 +166,6 @@ Email: [rajendharbanoth8@gmail.com](mailto:rajendharbanoth8@gmail.com)
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me. <br>
 
-#### Rajendhar Banoth<br>
+
+### Rajendhar Banoth<br>
 #### Aspiring Data Analyst | Python | SQL | Power BI
