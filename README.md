@@ -190,7 +190,7 @@ Telangana Model School, Siddipet District
 
 📧 Email: [rajendharbanoth8@gmail.com](mailto:rajendharbanoth8@gmail.com)
 
-💼 LinkedIn: https://linkedin.com/in/rajendhar-banoth
+💼 LinkedIn:www.linkedin.com/in/rajendharbanoth
 
 💻 GitHub: https://github.com/rajendharbanoth8-byte
 
