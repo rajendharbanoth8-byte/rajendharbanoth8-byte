@@ -176,15 +176,6 @@ Telangana Model School, Siddipet District
 
 ---
 
-##  GitHub Goals
-
-* Build a strong portfolio of Data Analytics projects
-* Share Python-based data analysis notebooks
-* Publish interactive Power BI dashboards
-* Contribute to open-source data projects
-* Continuously improve SQL and analytics skills
-* Document learning journeys and project insights
-
 ---
 
 ##  Languages
