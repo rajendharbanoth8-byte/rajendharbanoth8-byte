@@ -58,55 +58,6 @@ Let's connect and explore the world of data together!
 
 ---
 
-##  Featured Projects
-
-###  Sales Performance Analysis
-
-**Tools Used:** Python, SQL, Power BI
-
-#### Problem Statement
-
-Analyze sales data to identify revenue trends and top-performing products.
-
-#### Key Contributions
-
-* Extracted and analyzed structured sales data using SQL.
-* Performed data cleaning and exploratory analysis using Python.
-* Identified revenue patterns and product performance metrics.
-* Developed an interactive Power BI dashboard.
-
-#### Outcomes
-
-* Improved understanding of sales trends.
-* Enabled visual tracking of business performance indicators.
-
----
-### Clone Repository:<br>
-git clone <https://github.com/rajendharbanoth8-byte/Sales-Analysis.git><br>
-
-###  Customer Analysis
-
-**Tools Used:** Python, SQL, Power BI
-
-#### Problem Statement
-
-Understand customer purchasing behavior and identify meaningful customer segments.
-
-#### Key Contributions
-
-* Processed retail datasets using SQL and Python.
-* Conducted customer segmentation analysis.
-* Explored purchasing patterns and customer behavior.
-* Built Power BI dashboards to visualize insights.
-
-#### Outcomes
-
-* Generated actionable customer insights.
-* Improved understanding of customer preferences and purchasing trends.
-
-  ####  Clone Repository<br>
-git clone <https://github.com/rajendharbanoth8-byte/Customer_analysis.git><br>
-
 
 ##  Education
 
